@@ -7,5 +7,9 @@ int main()
 
     emp.Print();
 
+    Employee emp2(102, "Antony Sanu", "", "");
+
+    emp2.Print();
+
     // delete hod;
 }

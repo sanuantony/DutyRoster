@@ -1,0 +1,44 @@
+{
+  "LeavePlans": [
+    {
+      "Employee": {
+        "Id": 1,
+        "Name": "John Doe",
+        "Designation": "Software Engineer"
+      },
+      "Leaves": []
+    },
+    {
+      "Employee": {
+        "Id": 2,
+        "Name": "Jane Smith",
+        "Designation": "HR Manager"
+      },
+      "Leaves": [ 18, 16 ]
+    },
+    {
+      "Employee": {
+        "Id": 3,
+        "Name": "Michael Johnson",
+        "Designation": "Sales Executive"
+      },
+      "Leaves": [ 12, 21 ]
+    },
+    {
+      "Employee": {
+        "Id": 4,
+        "Name": "Emily Brown",
+        "Designation": "Marketing Specialist"
+      },
+      "Leaves": [ 4, 7 ]
+    },
+    {
+      "Employee": {
+        "Id": 5,
+        "Name": "David Wilson",
+        "Designation": "Financial Analyst"
+      },
+      "Leaves": [ 1, 3 ]
+    }
+  ]
+}
